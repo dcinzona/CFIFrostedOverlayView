@@ -1,6 +1,8 @@
 CFIFrostedOverlayView
 =====================
 
+[![Join the chat at https://gitter.im/dcinzona/CFIFrostedOverlayView](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dcinzona/CFIFrostedOverlayView?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A view that renders its superview with a gaussian blur like iOS 7's Control Center
 
 ![Frosted Overlay Screenshot](https://raw.github.com/CodaFi/CFIFrostedOverlayView/master/Artwork/Screen%20Shot%202013-06-16%20at%201.50.35%20PM.png)
